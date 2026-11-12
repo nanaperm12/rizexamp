@@ -1,0 +1,7 @@
+{
+  "name": "Kasturi Asesmen Digital",
+  "description": "Aplikasi ulangan dan asesmen digital berbasis web dengan Exam Mode aman, deteksi kecurangan, autosave, bank soal, dan analitik guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
